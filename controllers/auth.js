@@ -1,4 +1,4 @@
-const User = require ('../.models/user')
+const Users = require ('../.models/users')
 
 app.use(express.json())
 
