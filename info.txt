@@ -1,0 +1,3 @@
+user name=gina
+password=j3hOUvIYQDGhAPJD
+db connection=mongodb+srv://gina:<password>@cluster0.hrimo.mongodb.net/<dbname>
